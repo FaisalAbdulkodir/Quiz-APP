@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Vatikan adalah sebuah negara",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 2,
+    "question": "Petir terlihat lebih dulu sebelum terdengar",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 3,
+    "question": "Mentimun termasuk buah",
+    "tipe": "SALAH",
+    "answer": null
+  },
+  {
+    "id": 4,
+    "question": "Semua mamalia hidup di darat",
+    "tipe": "SALAH",
+    "answer": "ada mamalia yang hidup di air seperti paus dan lumba-lumba"
+  },
+  {
+    "id": 5,
+    "question": "Manusia hanya pakai 10% kapasitas otaknya",
+    "tipe": "SALAH",
+    "answer": "manusia menggunakan hampir semua bagian otaknya, hanya saja tidak semua aktif bersamaan"
+  },
+  {
+    "id": 6,
+    "question": "Planet terpanas adalah Merkurius",
+    "tipe": "SALAH",
+    "answer": "Venus adalah planet terpanas dengan suhu permukaan sekitar 465 derajat Celcius dan efek rumah kaca ekstrem"
+  },
+  {
+    "id": 7,
+    "question": "Gambus adalah alat musik tradisional dari Jawa Tengah",
+    "tipe": "SALAH",
+    "answer": "gambus berasal dari Riau/Melayu, seharusnya gamelan"
+  },
+  {
+    "id": 8,
+    "question": "Pulau Sumatera adalah pulau terluas di Indonesia",
+    "tipe": "SALAH",
+    "answer": "pulau terluas adalah Kalimantan"
+  },
+  {
+    "id": 9,
+    "question": "Kalimat yang mengandung perintah disebut kalimat deklaratif",
+    "tipe": "SALAH",
+    "answer": "perintah adalah imperatif"
+  },
+  {
+    "id": 10,
+    "question": "BPUPKI dibentuk pada tanggal 1 Maret 1945",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 11,
+    "question": "Satuan dari besaran energi adalah Watt",
+    "tipe": "SALAH",
+    "answer": "satuan energi adalah Joule"
+  },
+  {
+    "id": 12,
+    "question": "Alat untuk mengukur kekuatan gempa bumi adalah seismograf",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 13,
+    "question": "Mata uang negara Filipina adalah Peso",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 14,
+    "question": "Negara agraris adalah sebutan untuk negara yang sebagian besar penduduknya bekerja di sektor pertanian",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 15,
+    "question": "Sel hewan memiliki dinding sel yang kaku yang berfungsi mempertahankan bentuk sel",
+    "tipe": "SALAH",
+    "answer": "dinding sel hanya ada pada tumbuhan, fungi, dan bakteri"
+  },
+  {
+    "id": 16,
+    "question": "Enzim bekerja dengan cara menurunkan energi aktivasi suatu reaksi kimia",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 17,
+    "question": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat antara golongan muda dan golongan tua mengenai waktu pelaksanaan proklamasi",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 18,
+    "question": "Salah satu hasil kebudayaan Megalithikum yang berfungsi sebagai meja batu tempat sesaji adalah Dolmen",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 19,
+    "question": "Sistem pemerintahan yang menganut kedaulatan tertinggi di tangan rakyat adalah sistem Monarki",
+    "tipe": "SALAH",
+    "answer": "di tangan rakyat itu Demokrasi"
+  },
+  {
+    "id": 20,
+    "question": "Pancasila hanya berfungsi sebagai simbol negara tanpa memiliki kekuatan hukum yang mengikat dalam pembentukan peraturan perundang-undangan",
+    "tipe": "SALAH",
+    "answer": "Pancasila adalah sumber dari segala sumber hukum"
+  },
+  {
+    "id": 21,
+    "question": "Desentralisasi adalah penyerahan urusan pemerintahan oleh pemerintah pusat kepada daerah otonom berdasarkan asas otonomi",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 22,
+    "question": "Bilangan 0 merupakan bilangan positif",
+    "tipe": "SALAH",
+    "answer": "0 adalah bilangan netral (bukan positif maupun negatif)"
+  },
+  {
+    "id": 23,
+    "question": "Sebuah tabung memiliki total 3 buah sisi (alas, tutup, dan selimut)",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 24,
+    "question": "Hasil dari -10+18 adalah 8",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 25,
+    "question": "Cermin cembung selalu menghasilkan bayangan maya, tegak, dan diperkecil",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 26,
+    "question": "Rangkaian listrik yang digunakan di rumah-rumah umumnya adalah rangkaian seri",
+    "tipe": "SALAH",
+    "answer": "umumnya paralel"
+  },
+  {
+    "id": 27,
+    "question": "Tari Piring berasal dari provinsi Sumatera Barat",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 28,
+    "question": "Semut adalah serangga yang memiliki rasa solidaritas tinggi",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 29,
+    "question": "Hasil dari 8 + 10 x 2 adalah 36",
+    "tipe": "SALAH",
+    "answer": "Seharusnya 28"
+  },
+  {
+    "id": 30,
+    "question": "Air membeku pada suhu 0 derajat Celcius",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 31,
+    "question": "Gajah adalah hewan mamalia darat terbesar yang masih hidup",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 32,
+    "question": "Ibukota Australia adalah Sydney",
+    "tipe": "SALAH",
+    "answer": "Canberra"
+  },
+  {
+    "id": 33,
+    "question": "PBB didirikan setelah Perang Dunia I",
+    "tipe": "SALAH",
+    "answer": "setelah Perang Dunia II"
+  },
+  {
+    "id": 34,
+    "question": "Hari guru diperingati pada tanggal 25 Desember",
+    "tipe": "SALAH",
+    "answer": "25 November"
+  },
+  {
+    "id": 35,
+    "question": "Indonesia pernah memindahkan ibukota ke Yogyakarta secara resmi",
+    "tipe": "BENAR",
+    "answer": "saat masa darurat 1946"
+  },
+  {
+    "id": 36,
+    "question": "Indonesia pernah berbentuk negara federal",
+    "tipe": "BENAR",
+    "answer": "Republik Indonesia Serikat 1949–1950"
+  },
+  {
+    "id": 37,
+    "question": "Bintang hanya terlihat pada malam hari",
+    "tipe": "SALAH",
+    "answer": "bintang tetap ada siang hari tapi kalah terang oleh matahari"
+  },
+  {
+    "id": 38,
+    "question": "China adalah negara dengan penduduk terbanyak di dunia",
+    "tipe": "SALAH",
+    "answer": "per 2023-2024 India naik ke posisi pertama"
+  },
+  {
+    "id": 39,
+    "question": "8 Maret diperingati sebagai Hari Perempuan Internasional",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 40,
+    "question": "Pulau terpadat penduduk di Indonesia adalah Pulau Sumatra",
+    "tipe": "SALAH",
+    "answer": "Pulau Jawa"
+  },
+  {
+    "id": 41,
+    "question": "Pisang termasuk dalam kategori buah buni (berry), sedangkan stroberi bukan",
+    "tipe": "BENAR",
+    "answer": "dalam botani, buah buni adalah buah yang dihasilkan dari satu ovarium bunga saja, sementara stroberi tidak"
+  },
+  {
+    "id": 42,
+    "question": "Seekor kecoa bisa hidup selama beberapa minggu tanpa kepala",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 43,
+    "question": "Jantung seekor udang terletak di bagian kepalanya",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 44,
+    "question": "Tembok Besar Tiongkok adalah satu-satunya struktur buatan manusia yang dapat dilihat dengan mata telanjang dari bulan",
+    "tipe": "SALAH",
+    "answer": "mitos ini dibantah oleh para astronot, Tembok Besar sulit dilihat dari orbit rendah Bumi tanpa bantuan alat"
+  },
+  {
+    "id": 45,
+    "question": "Angka 1 (satu) adalah angka terkecil dalam deretan bilangan prima",
+    "tipe": "SALAH",
+    "answer": "bilangan 2 adalah satu-satunya angka genap dan merupakan bilangan prima terkecil"
+  },
+  {
+    "id": 46,
+    "question": "Tomat dikategorikan sebagai buah",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 47,
+    "question": "Mencabut satu uban akan menyebabkan dua atau lebih uban baru tumbuh di tempat yang sama",
+    "tipe": "SALAH",
+    "answer": "ini tidak bisa dibuktikan secara medis. Uban tumbuh karena faktor usia dan genetik"
+  },
+  {
+    "id": 48,
+    "question": "J.K. Rowling adalah orang pertama yang menjadi miliarder (dalam USD) hanya dengan menulis buku",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 49,
+    "question": "Ketchup (saus tomat) dulunya dijual sebagai obat pada abad ke-19",
+    "tipe": "BENAR",
+    "answer": null
+  },
+  {
+    "id": 50,
+    "question": "Dalam sebuah ruangan berisi 23 orang, kemungkinan ada dua orang yang memiliki tanggal ulang tahun yang sama adalah lebih dari 50%",
+    "tipe": "BENAR",
+    "answer": "dikenal sebagai 'Birthday Paradox'; secara statistik, jumlah pasangan yang mungkin terbentuk dari 23 orang cukup banyak untuk mencapai probabilitas ini"
+  }
+]
