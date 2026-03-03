@@ -13,9 +13,9 @@
   },
   {
     "id": 3,
-    "question": "Mentimun termasuk buah",
+    "question": "Tomat dikategorikan sebagai buah",
     "tipe": "BENAR",
-    "answer": "mentimun termasuk buah dalam ilmu botani"
+    "answer": "menurut ilmu botani, tumbuhan yang tumbuh dari bunga termasuk dalam kategori buah"
   },
   {
     "id": 4,
@@ -271,9 +271,9 @@
   },
   {
     "id": 46,
-    "question": "Tomat dikategorikan sebagai buah",
+    "question": "Mentimun termasuk buah",
     "tipe": "BENAR",
-    "answer": "menurut ilmu botani, tumbuhan yang tumbuh dari bunga termasuk dalam kategori buah"
+    "answer": "mentimun termasuk buah dalam ilmu botani"
   },
   {
     "id": 47,
