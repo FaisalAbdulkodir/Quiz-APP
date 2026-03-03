@@ -14,8 +14,8 @@
   {
     "id": 3,
     "question": "Mentimun termasuk buah",
-    "tipe": "SALAH",
-    "answer": null
+    "tipe": "BENAR",
+    "answer": "mentimun termasuk buah dalam ilmu botani"
   },
   {
     "id": 4,
@@ -225,7 +225,7 @@
     "id": 38,
     "question": "China adalah negara dengan penduduk terbanyak di dunia",
     "tipe": "SALAH",
-    "answer": "per 2023-2024 India naik ke posisi pertama"
+    "answer": "per 2025 India di posisi pertama, 1,46 milyar jiwa, sedangkan China 1,42 milyar jiwa"
   },
   {
     "id": 39,
@@ -273,7 +273,7 @@
     "id": 46,
     "question": "Tomat dikategorikan sebagai buah",
     "tipe": "BENAR",
-    "answer": null
+    "answer": "menurut ilmu botani, tumbuhan yang tumbuh dari bunga termasuk dalam kategori buah"
   },
   {
     "id": 47,
